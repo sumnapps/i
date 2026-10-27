@@ -1,0 +1,13 @@
+/* Custom Smooth Animations & Glassmorphism adjustments */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom Glow Effects */
+.glow-effect {
+    box-shadow: 0 0 50px -10px rgba(99, 102, 241, 0.2);
+}
